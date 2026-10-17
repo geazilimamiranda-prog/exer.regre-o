@@ -1,2 +1,2 @@
 # exer.regre-o
-exercicio regreção 
+exercicio regressão 
