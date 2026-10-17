@@ -1,2 +1,2 @@
-# exer.regre-o
+# exer.regressao
 exercicio regressão 
